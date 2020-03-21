@@ -1,4 +1,5 @@
-# Monte Carlo Simulation für Risikobewertung 
+# Maths meets reality
 
+Different real world problems solved with pyhton (description in german)
 
-Risiko-Bewertung von Zeitplänen mit Monte-Carlo-Analyse
+- Project management - risk evaluation with Monte-Carlo-Analyse
